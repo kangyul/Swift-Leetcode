@@ -1,0 +1,11 @@
+class Solution {
+    func maxProfit(_ prices: [Int]) -> Int {
+        var maxProfit = 0
+
+        for (i, price) in prices.enumerated() {
+            
+        }
+
+        return maxProfit
+    }
+}
